@@ -1,4 +1,18 @@
-div{
-   
-    margin: 10px;
+.shan{
+    background-color: cornflowerblue;
+    margin: 40px;
+    border: 10px solid gray;
+    box-shadow: 10px 10px;
+}
+.anci{
+    background-color: aquamarine;
+    margin: 40px;
+    border: 10px solid rgb(215, 25, 25);
+    box-shadow: 10px 10px;
+}
+.pran{
+    background-color: rgb(127, 255, 242);
+    margin: 40px;
+    border: 10px solid gray;
+    box-shadow: 10px 10px red;
 }
